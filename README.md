@@ -9,7 +9,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img align="center" src="https://github-stats-extended.vercel.app/api?username=camila-gt&show_icons=true&theme=radical&count_private=true" alt="camila-gt stats" width="49%" />
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=camila-gt&show_icons=true&locale=en&layout=compact&theme=radical" alt="camila-gt top languages" width="49%" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=camila-gt&show_icons=true&locale=en&layout=compact&theme=radical&card_width=467" alt="camila-gt top languages" width="49%" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
