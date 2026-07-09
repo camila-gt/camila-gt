@@ -27,16 +27,16 @@
 <img src="https://skillicons.dev/icons?i=python,java,js,php,bash" alt="Python, Java, JavaScript, PHP, Bash" />
 
 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap, React" />&nbsp;<img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" height="48" alt="React Native" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap, React" />
 
 **Backend &amp; Frameworks**
 <img src="https://skillicons.dev/icons?i=django,flask,nodejs" alt="Django, Flask, Node.js" />
 
 **Data &amp; ML**
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="PyTorch, Scikit-learn" />&nbsp;<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" height="48" alt="Pandas" />&nbsp;<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=plastic&logoColor=white" height="48" alt="Seaborn" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="PyTorch, Scikit-learn" />
 
 **Databases**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="MySQL, MongoDB, SQLite" />&nbsp;<img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" height="48" alt="MariaDB" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="MySQL, MongoDB, SQLite" />
 
 **Tools &amp; DevOps**
 <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,postman,selenium" alt="Git, Docker, Linux, Nginx, Postman, Selenium" />
@@ -44,9 +44,5 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img align="center" src="https://github-stats-extended.vercel.app/api?username=camila-gt&show_icons=true&theme=radical&count_private=true" alt="camila-gt stats" width="49%" />
-  <img align="center" src="https://streak-stats.demolab.com/?user=camila-gt&theme=radical" alt="camila-gt streak" width="49%" />
-</p>
-
-<p align="left">
   <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=camila-gt&show_icons=true&locale=en&layout=compact&theme=radical" alt="camila-gt top languages" width="49%" />
 </p>
