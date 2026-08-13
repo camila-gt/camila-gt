@@ -44,5 +44,5 @@
 **Databases**
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="MySQL, MongoDB, SQLite" />
 
-**Tools &amp; DevOps**
+**Tools**
 <img src="https://skillicons.dev/icons?i=git,linux,postman,selenium" alt="Git, Linux, Postman, Selenium" />
