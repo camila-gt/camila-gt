@@ -30,7 +30,7 @@
 ## 🛠️ Tech stack
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=python,java,js,php,bash" alt="Python, JavaScript, PHP" />
+<img src="https://skillicons.dev/icons?i=python,js,php" alt="Python, JavaScript, PHP" />
 
 **Frontend**
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="HTML, CSS, Bootstrap, React" />
@@ -45,4 +45,4 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="MySQL, MongoDB, SQLite" />
 
 **Tools &amp; DevOps**
-<img src="https://skillicons.dev/icons?i=git,docker,linux,nginx,postman,selenium" alt="Git, Linux, Postman, Selenium" />
+<img src="https://skillicons.dev/icons?i=git,linux,postman,selenium" alt="Git, Linux, Postman, Selenium" />
